@@ -1,0 +1,2 @@
+# Problemática: Seguros
+# Diagrama UML
