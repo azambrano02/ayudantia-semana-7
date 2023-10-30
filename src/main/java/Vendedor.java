@@ -8,4 +8,24 @@ public class Vendedor {
         this.rut = rut;
         this.ID = ID;
     }
+
+    public String getNombre() {
+        return nombre;
+    }
+    public String getRut() {
+        return rut;
+    }
+    public String getID() {
+        return ID;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+    public void setRut(String rut) {
+        this.rut = rut;
+    }
+    public void setID(String ID) {
+        this.ID = ID;
+    }
 }
