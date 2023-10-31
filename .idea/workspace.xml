@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a3a4aaf-6936-4e58-92b4-947453e7b00a" name="Changes" comment="todas las clases con sus atributos&#10;creacion de metodos :&#10;- clienteExiste&#10;- vendedorExiste&#10;- agregarCliente&#10;- agregarVendedor&#10;- buscarCliente">
+    <list default="true" id="6a3a4aaf-6936-4e58-92b4-947453e7b00a" name="Changes" comment="borre 2 import que no se cuando se habian creado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Empresa.java" afterDir="false" />
     </list>
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="alan_casa" />
+        <entry key="$PROJECT_DIR$" value="alan" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698707392540</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="creacion metodos en empresa:&#10;&#10;-buscarClientesTerceraEdad&#10;-asegurarCliente&#10;-despedirVendedor">
+      <created>1698712215496</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698712215496</updated>
+    </task>
+    <task id="LOCAL-00006" summary="borre 2 import que no se cuando se habian creado">
+      <created>1698712370042</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698712370042</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +134,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="agregar clases y sus atributos" />
     <MESSAGE value="todas las clases con sus atributos&#10;creacion de metodos :&#10;- clienteExiste&#10;- vendedorExiste&#10;- agregarCliente&#10;- agregarVendedor&#10;- buscarCliente" />
-    <option name="LAST_COMMIT_MESSAGE" value="todas las clases con sus atributos&#10;creacion de metodos :&#10;- clienteExiste&#10;- vendedorExiste&#10;- agregarCliente&#10;- agregarVendedor&#10;- buscarCliente" />
+    <MESSAGE value="creacion metodos en empresa:&#10;&#10;-buscarClientesTerceraEdad&#10;-asegurarCliente&#10;-despedirVendedor" />
+    <MESSAGE value="borre 2 import que no se cuando se habian creado" />
+    <option name="LAST_COMMIT_MESSAGE" value="borre 2 import que no se cuando se habian creado" />
   </component>
 </project>
