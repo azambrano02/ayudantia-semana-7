@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a3a4aaf-6936-4e58-92b4-947453e7b00a" name="Changes" comment="agregar clases y sus atributos">
+    <list default="true" id="6a3a4aaf-6936-4e58-92b4-947453e7b00a" name="Changes" comment="todas las clases con sus atributos&#10;creacion de metodos :&#10;- clienteExiste&#10;- vendedorExiste&#10;- agregarCliente&#10;- agregarVendedor&#10;- buscarCliente">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Empresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Seguro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seguro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Vendedor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Vendedor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="alan_casa" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -92,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698705010645</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="todas las clases con sus atributos&#10;creacion de metodos :&#10;- clienteExiste&#10;- vendedorExiste&#10;- agregarCliente&#10;- agregarVendedor&#10;- buscarCliente">
+      <created>1698707304000</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698707304000</updated>
+    </task>
+    <task id="LOCAL-00004" summary="todas las clases con sus atributos&#10;creacion de metodos :&#10;- clienteExiste&#10;- vendedorExiste&#10;- agregarCliente&#10;- agregarVendedor&#10;- buscarCliente">
+      <created>1698707392540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698707392540</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="agregar clases y sus atributos" />
-    <option name="LAST_COMMIT_MESSAGE" value="agregar clases y sus atributos" />
+    <MESSAGE value="todas las clases con sus atributos&#10;creacion de metodos :&#10;- clienteExiste&#10;- vendedorExiste&#10;- agregarCliente&#10;- agregarVendedor&#10;- buscarCliente" />
+    <option name="LAST_COMMIT_MESSAGE" value="todas las clases con sus atributos&#10;creacion de metodos :&#10;- clienteExiste&#10;- vendedorExiste&#10;- agregarCliente&#10;- agregarVendedor&#10;- buscarCliente" />
   </component>
 </project>
